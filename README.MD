@@ -1,5 +1,5 @@
 # hexo-bilibili-plus   ![](https://img.shields.io/npm/v/hexo-bilibili-plus)  ![](https://img.shields.io/npm/dm/hexo-bilibili-plus)
-A hexo plugin insert a bilibili video in your hexo article quickly and easily.  
+A hexo plugin embed a bilibili video in your hexo article quickly and easily.  
 
 一个hexo插件，可以快速而方便的在hexo页面中嵌入bilibili视频
 ## Install 安装
