@@ -12,7 +12,7 @@ You can view demo in my blog [here](https://blog.pk5ls20.com/posts/111d57cd/#%E5
 
 可以在我的[博客](https://blog.pk5ls20.com/posts/111d57cd/#%E5%9C%A8Hexo-Fluid%E4%B8%AD%E4%B8%80%E9%94%AE%E6%8F%92%E5%85%A5Bilibili%E8%A7%86%E9%A2%91)中查看demo
 ## Usage 使用
-Insert `{%blil $VID}` in your markdown file to use.  
+Insert `{%blil $VID %}` in your markdown file to use.  
 The `$VID` can be any vaild bvid (current video number in bilibili, like `BV14b4y1U7XX`) or avid (bilibili use it from 2009 to 2020, like`av170001`).  
 
 在文章的md文件中插入`{%blil $VID}`来使用，`$VID`可以是bv号也可以是av号
