@@ -8,6 +8,9 @@ Run command `npm install hexo-bilibili-plus` in your hexo site path.
 在Hexo的博客目录下执行`npm install hexo-bilibili-plus`
 ## Preview 预览
 ![](https://github-blog-1314730533.cos.ap-beijing.myqcloud.com/20230131132606.png)
+You can view demo in the blog [here](https://liuqing.fun/2025/01/11/bilibili-exp/)  
+
+可以在这个[博客](https://liuqing.fun/2025/01/11/bilibili-exp/)中查看demo
 
 ## Usage 使用
 Insert `{%blil $VID $isAutoplay $isSimpleFrame %}` in your markdown file to use.  
